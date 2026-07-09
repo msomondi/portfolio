@@ -1,0 +1,109 @@
+billing_month,service_id,service_name,service_type,region_id,region_name,country_group,cost_center_id,team,business_unit,compute_hours,storage_gb,monthly_cost_eur,utilization_pct,data_quality_status
+2026-01,S001,Compute,Core Infrastructure,R001,eu-central-1,Germany,C003,Finance,Business Services,5641,1688,7954.42,56.5,passed
+2026-01,S001,Compute,Core Infrastructure,R002,eu-west-1,Ireland,C003,Finance,Business Services,3621,2969,8859.54,73.3,passed
+2026-01,S001,Compute,Core Infrastructure,R003,us-east-1,United States,C002,IT Operations,Infrastructure,2883,1265,7979.12,91.5,passed
+2026-01,S002,Storage,Data Platform,R001,eu-central-1,Germany,C001,Data Team,Analytics,847,8866,4812.99,67.2,passed
+2026-01,S002,Storage,Data Platform,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,289,19318,4919.63,67.6,passed
+2026-01,S002,Storage,Data Platform,R003,us-east-1,United States,C004,Customer Platform,Product,1254,3756,4127.62,66.9,passed
+2026-01,S003,Database,Business Apps,R001,eu-central-1,Germany,C001,Data Team,Analytics,1050,10755,5358.66,64.1,passed
+2026-01,S003,Database,Business Apps,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,1813,15987,4940.5,59.7,passed
+2026-01,S003,Database,Business Apps,R003,us-east-1,United States,C003,Finance,Business Services,2035,4143,5153.72,76.3,passed
+2026-01,S004,Network,Connectivity,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,802,2499,3577.6,77.6,passed
+2026-01,S004,Network,Connectivity,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,915,505,3582.97,64.5,passed
+2026-01,S004,Network,Connectivity,R003,us-east-1,United States,C004,Customer Platform,Product,819,387,2789.74,62.5,passed
+2026-01,S005,Analytics,Reporting,R001,eu-central-1,Germany,C004,Customer Platform,Product,829,542,3801.0,37.0,passed
+2026-01,S005,Analytics,Reporting,R002,eu-west-1,Ireland,C003,Finance,Business Services,3018,1417,3078.58,53.3,passed
+2026-01,S005,Analytics,Reporting,R003,us-east-1,United States,C004,Customer Platform,Product,841,1748,3787.04,78.6,passed
+2026-01,S006,Backup,Operations,R001,eu-central-1,Germany,C003,Finance,Business Services,140,19683,2385.88,83.2,passed
+2026-01,S006,Backup,Operations,R002,eu-west-1,Ireland,C004,Customer Platform,Product,602,2654,1939.27,70.8,passed
+2026-01,S006,Backup,Operations,R003,us-east-1,United States,C001,Data Team,Analytics,1060,15148,2192.89,90.2,passed
+2026-02,S001,Compute,Core Infrastructure,R001,eu-central-1,Germany,C003,Finance,Business Services,4943,920,9545.0,30.6,passed
+2026-02,S001,Compute,Core Infrastructure,R002,eu-west-1,Ireland,C003,Finance,Business Services,1934,913,6977.32,68.7,passed
+2026-02,S001,Compute,Core Infrastructure,R003,us-east-1,United States,C004,Customer Platform,Product,2128,590,8291.25,42.6,passed
+2026-02,S002,Storage,Data Platform,R001,eu-central-1,Germany,C004,Customer Platform,Product,677,11121,5325.47,79.7,passed
+2026-02,S002,Storage,Data Platform,R002,eu-west-1,Ireland,C001,Data Team,Analytics,1463,16357,4325.56,84.5,passed
+2026-02,S002,Storage,Data Platform,R003,us-east-1,United States,C004,Customer Platform,Product,1354,1506,4782.44,55.3,passed
+2026-02,S003,Database,Business Apps,R001,eu-central-1,Germany,C004,Customer Platform,Product,1159,5730,6195.16,54.7,passed
+2026-02,S003,Database,Business Apps,R002,eu-west-1,Ireland,C001,Data Team,Analytics,1113,2198,5534.95,38.8,passed
+2026-02,S003,Database,Business Apps,R003,us-east-1,United States,C004,Customer Platform,Product,5682,18437,5956.21,90.2,passed
+2026-02,S004,Network,Connectivity,R001,eu-central-1,Germany,C004,Customer Platform,Product,1236,1686,3879.74,46.2,passed
+2026-02,S004,Network,Connectivity,R002,eu-west-1,Ireland,C001,Data Team,Analytics,319,1639,3763.71,30.1,passed
+2026-02,S004,Network,Connectivity,R003,us-east-1,United States,C004,Customer Platform,Product,1253,1126,2873.31,59.3,passed
+2026-02,S005,Analytics,Reporting,R001,eu-central-1,Germany,C004,Customer Platform,Product,3960,252,4414.45,51.7,passed
+2026-02,S005,Analytics,Reporting,R002,eu-west-1,Ireland,C001,Data Team,Analytics,3381,247,3686.21,53.5,passed
+2026-02,S005,Analytics,Reporting,R003,us-east-1,United States,C003,Finance,Business Services,1597,236,3918.19,39.9,passed
+2026-02,S006,Backup,Operations,R001,eu-central-1,Germany,C001,Data Team,Analytics,502,2186,2499.44,79.8,passed
+2026-02,S006,Backup,Operations,R002,eu-west-1,Ireland,C004,Customer Platform,Product,1028,18543,2098.03,52.8,passed
+2026-02,S006,Backup,Operations,R003,us-east-1,United States,C002,IT Operations,Infrastructure,572,14457,2348.74,87.2,passed
+2026-03,S001,Compute,Core Infrastructure,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,1073,1066,8938.71,61.1,passed
+2026-03,S001,Compute,Core Infrastructure,R002,eu-west-1,Ireland,C001,Data Team,Analytics,4173,502,7346.04,85.6,passed
+2026-03,S001,Compute,Core Infrastructure,R003,us-east-1,United States,C003,Finance,Business Services,2132,2913,7356.56,82.2,passed
+2026-03,S002,Storage,Data Platform,R001,eu-central-1,Germany,C004,Customer Platform,Product,727,13074,5839.14,87.9,passed
+2026-03,S002,Storage,Data Platform,R002,eu-west-1,Ireland,C004,Customer Platform,Product,1350,2757,4948.08,88.2,passed
+2026-03,S002,Storage,Data Platform,R003,us-east-1,United States,C001,Data Team,Analytics,437,12169,3745.02,72.3,passed
+2026-03,S003,Database,Business Apps,R001,eu-central-1,Germany,C004,Customer Platform,Product,4943,21495,6433.19,75.8,passed
+2026-03,S003,Database,Business Apps,R002,eu-west-1,Ireland,C004,Customer Platform,Product,5185,11496,6759.61,62.7,passed
+2026-03,S003,Database,Business Apps,R003,us-east-1,United States,C003,Finance,Business Services,2143,14573,5327.02,90.6,passed
+2026-03,S004,Network,Connectivity,R001,eu-central-1,Germany,C003,Finance,Business Services,325,847,4120.26,69.3,passed
+2026-03,S004,Network,Connectivity,R002,eu-west-1,Ireland,C003,Finance,Business Services,915,708,3088.16,64.6,passed
+2026-03,S004,Network,Connectivity,R003,us-east-1,United States,C004,Customer Platform,Product,1343,2255,2916.27,89.1,passed
+2026-03,S005,Analytics,Reporting,R001,eu-central-1,Germany,C001,Data Team,Analytics,1510,2377,4955.74,49.2,passed
+2026-03,S005,Analytics,Reporting,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,5538,1189,4740.19,46.8,passed
+2026-03,S005,Analytics,Reporting,R003,us-east-1,United States,C001,Data Team,Analytics,3844,177,3383.53,51.9,passed
+2026-03,S006,Backup,Operations,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,785,4063,2992.61,41.4,passed
+2026-03,S006,Backup,Operations,R002,eu-west-1,Ireland,C003,Finance,Business Services,254,10929,2226.45,84.2,passed
+2026-03,S006,Backup,Operations,R003,us-east-1,United States,C001,Data Team,Analytics,345,7543,2069.26,63.4,passed
+2026-04,S001,Compute,Core Infrastructure,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,5466,2505,14327.41,35.0,passed
+2026-04,S001,Compute,Core Infrastructure,R002,eu-west-1,Ireland,C001,Data Team,Analytics,4945,2751,9110.52,34.0,passed
+2026-04,S001,Compute,Core Infrastructure,R003,us-east-1,United States,C002,IT Operations,Infrastructure,4596,624,8861.05,90.8,passed
+2026-04,S002,Storage,Data Platform,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,781,20438,4636.02,51.1,passed
+2026-04,S002,Storage,Data Platform,R002,eu-west-1,Ireland,C004,Customer Platform,Product,1103,16179,5256.15,67.9,passed
+2026-04,S002,Storage,Data Platform,R003,us-east-1,United States,C004,Customer Platform,Product,1473,4342,4244.39,72.8,passed
+2026-04,S003,Database,Business Apps,R001,eu-central-1,Germany,C004,Customer Platform,Product,1085,13617,11182.84,33.2,passed
+2026-04,S003,Database,Business Apps,R002,eu-west-1,Ireland,C004,Customer Platform,Product,566,6149,7840.56,34.3,passed
+2026-04,S003,Database,Business Apps,R003,us-east-1,United States,C002,IT Operations,Infrastructure,5665,8005,6211.83,34.0,passed
+2026-04,S004,Network,Connectivity,R001,eu-central-1,Germany,C001,Data Team,Analytics,1395,1262,3776.55,75.2,passed
+2026-04,S004,Network,Connectivity,R002,eu-west-1,Ireland,C003,Finance,Business Services,1199,203,3812.27,50.8,passed
+2026-04,S004,Network,Connectivity,R003,us-east-1,United States,C001,Data Team,Analytics,1343,1142,3056.54,34.0,passed
+2026-04,S005,Analytics,Reporting,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,5773,2315,5138.65,76.9,passed
+2026-04,S005,Analytics,Reporting,R002,eu-west-1,Ireland,C001,Data Team,Analytics,2207,406,3696.25,53.5,passed
+2026-04,S005,Analytics,Reporting,R003,us-east-1,United States,C002,IT Operations,Infrastructure,3701,2859,4596.96,87.7,passed
+2026-04,S006,Backup,Operations,R001,eu-central-1,Germany,C004,Customer Platform,Product,615,19423,3097.55,88.4,passed
+2026-04,S006,Backup,Operations,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,951,18271,2474.72,71.3,passed
+2026-04,S006,Backup,Operations,R003,us-east-1,United States,C003,Finance,Business Services,790,5587,2385.65,52.7,passed
+2026-05,S001,Compute,Core Infrastructure,R001,eu-central-1,Germany,C001,Data Team,Analytics,4830,2494,11837.53,31.3,passed
+2026-05,S001,Compute,Core Infrastructure,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,1225,2702,9513.34,37.5,passed
+2026-05,S001,Compute,Core Infrastructure,R003,us-east-1,United States,C001,Data Team,Analytics,1966,462,9327.24,30.5,passed
+2026-05,S002,Storage,Data Platform,R001,eu-central-1,Germany,C001,Data Team,Analytics,556,3167,5450.13,79.6,passed
+2026-05,S002,Storage,Data Platform,R002,eu-west-1,Ireland,C001,Data Team,Analytics,1108,2343,4560.31,49.8,passed
+2026-05,S002,Storage,Data Platform,R003,us-east-1,United States,C002,IT Operations,Infrastructure,378,14752,4362.95,43.2,passed
+2026-05,S003,Database,Business Apps,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,1178,17949,9284.55,31.4,passed
+2026-05,S003,Database,Business Apps,R002,eu-west-1,Ireland,C001,Data Team,Analytics,2952,17301,7647.98,34.9,passed
+2026-05,S003,Database,Business Apps,R003,us-east-1,United States,C004,Customer Platform,Product,3388,7851,5839.71,88.6,passed
+2026-05,S004,Network,Connectivity,R001,eu-central-1,Germany,C004,Customer Platform,Product,1165,1259,3747.32,31.7,passed
+2026-05,S004,Network,Connectivity,R002,eu-west-1,Ireland,C003,Finance,Business Services,832,284,3758.18,73.2,passed
+2026-05,S004,Network,Connectivity,R003,us-east-1,United States,C003,Finance,Business Services,591,1592,3603.52,55.3,passed
+2026-05,S005,Analytics,Reporting,R001,eu-central-1,Germany,C004,Customer Platform,Product,3131,1267,5025.44,33.2,passed
+2026-05,S005,Analytics,Reporting,R002,eu-west-1,Ireland,C001,Data Team,Analytics,1838,1906,4265.61,84.3,passed
+2026-05,S005,Analytics,Reporting,R003,us-east-1,United States,C001,Data Team,Analytics,1605,1877,4978.06,52.1,passed
+2026-05,S006,Backup,Operations,R001,eu-central-1,Germany,C003,Finance,Business Services,266,20770,2827.02,43.9,passed
+2026-05,S006,Backup,Operations,R002,eu-west-1,Ireland,C003,Finance,Business Services,752,21433,2490.04,58.0,passed
+2026-05,S006,Backup,Operations,R003,us-east-1,United States,C002,IT Operations,Infrastructure,994,9776,2779.97,75.6,passed
+2026-06,S001,Compute,Core Infrastructure,R001,eu-central-1,Germany,C003,Finance,Business Services,1664,1581,16764.07,32.8,passed
+2026-06,S001,Compute,Core Infrastructure,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,2302,864,14762.52,38.9,passed
+2026-06,S001,Compute,Core Infrastructure,R003,us-east-1,United States,C001,Data Team,Analytics,3962,2144,9304.61,68.3,passed
+2026-06,S002,Storage,Data Platform,R001,eu-central-1,Germany,C002,IT Operations,Infrastructure,1382,19287,6563.83,75.2,passed
+2026-06,S002,Storage,Data Platform,R002,eu-west-1,Ireland,C003,Finance,Business Services,1067,867,5772.81,49.5,passed
+2026-06,S002,Storage,Data Platform,R003,us-east-1,United States,C002,IT Operations,Infrastructure,797,7683,4603.9,65.4,passed
+2026-06,S003,Database,Business Apps,R001,eu-central-1,Germany,C004,Customer Platform,Product,5770,13416,8926.77,33.2,passed
+2026-06,S003,Database,Business Apps,R002,eu-west-1,Ireland,C001,Data Team,Analytics,705,5004,10127.25,38.5,passed
+2026-06,S003,Database,Business Apps,R003,us-east-1,United States,C002,IT Operations,Infrastructure,1465,2393,5881.02,91.2,passed
+2026-06,S004,Network,Connectivity,R001,eu-central-1,Germany,C001,Data Team,Analytics,1340,2924,4573.37,81.9,passed
+2026-06,S004,Network,Connectivity,R002,eu-west-1,Ireland,C001,Data Team,Analytics,610,434,3040.7,28.9,passed
+2026-06,S004,Network,Connectivity,R003,us-east-1,United States,C003,Finance,Business Services,870,1510,4229.48,65.4,passed
+2026-06,S005,Analytics,Reporting,R001,eu-central-1,Germany,C001,Data Team,Analytics,5714,2554,5988.61,36.3,passed
+2026-06,S005,Analytics,Reporting,R002,eu-west-1,Ireland,C003,Finance,Business Services,4994,930,3901.12,76.4,passed
+2026-06,S005,Analytics,Reporting,R003,us-east-1,United States,C002,IT Operations,Infrastructure,699,723,3593.74,58.5,passed
+2026-06,S006,Backup,Operations,R001,eu-central-1,Germany,C003,Finance,Business Services,1177,8627,3425.71,63.9,passed
+2026-06,S006,Backup,Operations,R002,eu-west-1,Ireland,C002,IT Operations,Infrastructure,866,19958,2949.56,54.9,passed
+2026-06,S006,Backup,Operations,R003,us-east-1,United States,C001,Data Team,Analytics,534,15981,2795.77,67.5,passed
